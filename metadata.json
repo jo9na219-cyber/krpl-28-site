@@ -1,0 +1,8 @@
+{
+  "name": "Remix КРПЛ №28 — с. Беловодское",
+  "description": "Официальный одностраничный сайт Кыргызско-Российского профессионального лицея №28 (с. Беловодское): история, специальности, преподаватели и контакты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
